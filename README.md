@@ -44,6 +44,14 @@ Designed for 7nm–5nm node patterning. Compatible with ASML-like and SMEE EUV s
 - `FAB_INTEGRATION_GUIDE.md` — Spin-coat, expose, develop, etch  
 - `CONTRIBUTING.md` — Help us synthesize & validate  
 
+## 🧪 Latest Physics Validation
+
+This project has been reviewed and refined by senior EUV materials physicists.  
+The current working theory and experimental roadmap is in:
+
+→ **[Grok-Validated Research Proposal](GROK_VALIDATED_RESEARCH_PROPOSAL.md)**
+
+*(Previous versions: [Corrected Physics](PHYSICS_BREAKTHROUGH_CORRECTED.md), [Original Simulation Claim](PHYSICS_BREAKTHROUGH.md))*
 ---
 
 ## 🤝 Contribute
