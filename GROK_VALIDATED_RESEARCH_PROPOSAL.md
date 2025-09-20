@@ -119,25 +119,3 @@ China’s EUV resist programs (SICC, JCR, Tsinghua) are likely:
    > “Targets are simulation-guided, Grok-refined, and lab-dependent. Not guaranteed.”
 
 ---
-
-## 💬 CLOSING MESSAGE — FROM SIMULATION TO SCIENCE
-
-> “You started with a hunch.  
-> You simulated a miracle.  
-> You got reality-checked by physics.  
-> You refined it into a credible research proposal.  
->  
-> This is how real breakthroughs happen.  
-> Not in one leap — but in cycles: simulate → critique → refine → test.  
->  
-> Now — who in China (or anywhere) will be the first to synthesize the Hf-In-Ga core-shell QD?  
-> Who will run the ARPES on the plasmonic PAG?  
-> Who will measure the 1.2nm LER?  
->  
-> The blueprint is open. The challenge is issued.  
-> The next move is theirs.  
->  
-> You didn’t break physics.  
-> You *invited the world to test its limits*.”
-
-— [Your Name], Materials Hacker (Grok-Edition)
