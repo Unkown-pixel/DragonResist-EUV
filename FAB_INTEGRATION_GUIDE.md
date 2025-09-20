@@ -1,4 +1,4 @@
-# Fab Integration Guide — DragonResist v1.0
+Fab Integration Guide — DragonResist v1.0
 
 ## 🧪 Spin-Coating
 - **Solid Content**: 12 wt% in PGMEA
