@@ -1,0 +1,5 @@
+﻿Resist Type,Sensitivity (mJ/cm²),LER (nm),Outgassing,Collapse AR
+Standard CAR,29.8,1.72,1.24e-4,2.85:1
+Metal-Oxide (MeOx),22.5,1.95,0.85e-4,3.20:1
+High-Contrast CAR,35.2,1.58,1.38e-4,2.65:1
+DSA-Assisted,26.7,1.32,1.12e-4,3.40:1
