@@ -1,0 +1,9 @@
+"Core EUV Physics Parameters"
+Photon energy: 92.0 eV (13.5 nm wavelength)
+Secondary electron yield: 3.2 ± 0.1 electrons/photon (validated for standard CAR)
+Electron scattering range: 4.8 ± 0.3 nm (measured by Monte Carlo simulations)
+Acid diffusion length: 5.2 ± 0.2 nm (CD-SEMXPS validated)
+Chemical amplification factor: 500 ± 25 (for standard PAG)
+Stochastic factor: 1.25 ± 0.05 (LER scaling)
+Development contrast: 4.5 ± 0.2 (for standard developers)
+ 
