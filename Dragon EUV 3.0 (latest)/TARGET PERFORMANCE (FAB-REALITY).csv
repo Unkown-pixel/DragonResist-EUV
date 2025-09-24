@@ -1,8 +1,0 @@
-﻿Metric,Target,Tolerance
-Sensitivity,17–18 mJ/cm²,±1.0 mJ/cm²
-Resolution,15 nm half-pitch,Achievable down to 13 nm hp
-LER (3σ),≤1.5 nm,≤1.6 nm acceptable
-Outgassing,<0.05 nmol/cm²,ASML Class A+
-Collapse Resistance,"Excellent @ 28 nm pitch, 4:1 AR",No failures
-Etch Selectivity,>3.0x SiO₂,Uniform HfO₂ mask
-Defect Density,<200 adders/wafer,KLA Surfscan SP5
